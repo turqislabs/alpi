@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feedback per E-Mail / by email
+    url: mailto:musa.oezdil@icloud.com
+    about: Kein GitHub-Konto? Schreib einfach eine Mail. · No GitHub account? Just send an email.
+  - name: Sicherheitslücke melden / Report a security issue
+    url: https://github.com/turqislabs/alpi/blob/main/SECURITY.md
+    about: Bitte nicht öffentlich – siehe SECURITY.md. · Please don't post publicly – see SECURITY.md.

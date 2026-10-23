@@ -1,0 +1,37 @@
+name: Fehler melden / Bug report
+description: Etwas funktioniert nicht wie erwartet. · Something doesn't work as expected.
+labels: ["bug", "beta"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke fürs Testen! Deutsch oder Englisch – beides ist willkommen.
+        Thanks for testing! German or English – both are welcome.
+  - type: textarea
+    id: what
+    attributes:
+      label: Was ist passiert? / What happened?
+      description: Und was hättest du erwartet? · And what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Schritte zum Nachstellen / Steps to reproduce
+      placeholder: |
+        1. ⌃⌥S drücken
+        2. Bereich aufziehen
+        3. …
+  - type: input
+    id: version
+    attributes:
+      label: Alpi- und macOS-Version / Alpi and macOS version
+      description: Wird ausgefüllt, wenn du über „Feedback geben“ in Alpi kommst. · Filled in when you come from “Feedback” in Alpi.
+      placeholder: Alpi 0.7 Beta (…) · macOS 27.0 · Mac…
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots, Videos, Sonstiges / Screenshots, recordings, anything else
+      description: Bitte vorher nichts Persönliches zeigen – Alpis Schwärzen hilft. · Please black out anything private first.
