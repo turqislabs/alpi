@@ -31,7 +31,7 @@ to convert them.
 - **Ask Alpi** – type what you want (“PDF from the selected images, then park them”); with Apple Intelligence on macOS 26/27, Alpi can also describe and name screenshots
 - **Automate** – folder rules and actions for the Shortcuts app
 
-> **Language:** the app is in **German** for now. English is planned – the user guide is already in English.
+> **Languages:** English and German – Alpi follows your Mac’s language (per-app choice in System Settings › General › Language & Region).
 
 ## Install
 
@@ -58,7 +58,7 @@ Details: [privacy policy](https://turqislabs.netlify.app/alpi/privacy.html).
 
 This is a beta – bugs are expected and every report helps.
 
-- In Alpi: **menu bar icon › Feedback geben** (fills in your Alpi and macOS version)
+- In Alpi: **menu bar icon › Send Feedback** (fills in your Alpi and macOS version)
 - Here: [report a bug](https://github.com/turqislabs/alpi/issues/new?template=bug_report.yml) · [suggest an idea](https://github.com/turqislabs/alpi/issues/new?template=feature_request.yml)
 - No GitHub account: [musa.oezdil@icloud.com](mailto:musa.oezdil@icloud.com)
 - Security issues: please see [SECURITY.md](SECURITY.md) instead of opening a public issue.
@@ -83,7 +83,7 @@ Made by **turQis Labs**, Berlin.
 
 **Alpi** ist ein kleiner schwebender Begleiter für den Mac: Screenshots (auch scrollend), Bildschirmvideos,
 Editor mit Schwärzen, Texterkennung, QR-Codes, Zwischenablage-Verlauf, Umwandeln per Drag & Drop und
-„Frag Alpi“ mit Apple Intelligence. Die App ist auf Deutsch.
+„Frag Alpi“ mit Apple Intelligence. Die App spricht Deutsch und Englisch.
 
 **Öffentliche Beta – kostenlos, solange sie Beta ist.**
 

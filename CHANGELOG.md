@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.7.1 Beta – English
+
+- The whole app is now available in English and German and follows your Mac's language
+- Ask Alpi understands English commands; Apple Intelligence answers in the app's language
+- New folders get English names (Converted, Recordings, History); existing German folders are kept
+- Folder rules and Shortcuts accept English and German target names
+
 ## 0.7 Beta – first public beta
 
 The first public version of Alpi. Free while it's in beta.
@@ -15,4 +22,3 @@ The first public version of Alpi. Free while it's in beta.
 - Privacy & security settings: history retention, clipboard clearing, link checks, shortcut confirmation
 - In-app feedback and update notice
 
-*App language: German. English planned.*
