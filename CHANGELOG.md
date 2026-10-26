@@ -1,11 +1,14 @@
 # Changelog
 
-## 0.7.1 Beta – English
+## 0.8 Beta – Tidy up Downloads
 
-- The whole app is now available in English and German and follows your Mac's language
-- Ask Alpi understands English commands; Apple Intelligence answers in the app's language
-- New folders get English names (Converted, Recordings, History); existing German folders are kept
-- Folder rules and Shortcuts accept English and German target names
+- Sort your Downloads (or any folder) into Images, Videos, Audio, Documents, Archives, Installers, Code and Other
+- Shows an overview first, never deletes anything, leaves your own subfolders and running downloads alone
+- Undo the last sort with one click
+- Ask Alpi: “Sort my Downloads”, “sort a folder”, “undo the sort”; also in the menu bar menu, Alpi’s right-click menu and the Shortcuts app
+- Optional: sort new downloads automatically after a wait (right away, 1 hour, 1 day), leaving unopened files alone
+- Folder sorting can be switched off completely
+- Customizable keyboard shortcuts: give every action your own shortcut in Settings › Keyboard Shortcuts
 
 ## 0.7 Beta – first public beta
 
@@ -22,3 +25,4 @@ The first public version of Alpi. Free while it's in beta.
 - Privacy & security settings: history retention, clipboard clearing, link checks, shortcut confirmation
 - In-app feedback and update notice
 
+*Languages: English and German.*

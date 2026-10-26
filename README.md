@@ -29,6 +29,8 @@ to convert them.
 - **Smart** – text recognition, QR codes, dates → calendar, tables → Excel, colour picker, clipboard history
 - **Convert** – images, PDFs, Office documents, video → GIF … by drag & drop
 - **Ask Alpi** – type what you want (“PDF from the selected images, then park them”); with Apple Intelligence on macOS 26/27, Alpi can also describe and name screenshots
+- **Tidy up** – sort your Downloads (or any folder) into Images, Videos, Documents, Archives … on request or automatically – and undo it
+- **Your shortcuts** – every action can get its own keyboard shortcut
 - **Automate** – folder rules and actions for the Shortcuts app
 
 > **Languages:** English and German – Alpi follows your Mac’s language (per-app choice in System Settings › General › Language & Region).
