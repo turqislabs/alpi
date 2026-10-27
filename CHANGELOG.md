@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.8.1 Beta – faster, nicer editor
+
+- Fixed: the editor stuttered or hung with large screenshots – drawing, dragging and zooming are smooth now
+- Fixed: short freezes after a capture (copying, saving, clipboard history now work in the background)
+- Image adjustments are calculated in the background while you drag
+- Redesigned editor: dark workspace, tool palette with colour indicator, card-style sidebar that can be hidden, cleaner bottom bar
+- Images copied from Alpi stay in the clipboard after quitting
+
 ## 0.8 Beta – Tidy up Downloads
 
 - Sort your Downloads (or any folder) into Images, Videos, Audio, Documents, Archives, Installers, Code and Other
