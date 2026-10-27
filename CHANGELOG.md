@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.8.2 Beta – faster screenshots, one-click updates
+
+- Screenshots trigger right away (screen capture is prepared in advance, all displays are captured at once)
+- Alpi no longer comes to the front when you take a screenshot; the app you're working in keeps its focus
+- Smoother area selection on large Retina displays
+- New: "Update Now" – Alpi downloads, verifies (Apple signature + notarization) and installs new versions itself, then restarts
+
 ## 0.8.1 Beta – faster, nicer editor
 
 - Fixed: the editor stuttered or hung with large screenshots – drawing, dragging and zooming are smooth now
