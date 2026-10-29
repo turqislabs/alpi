@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/alpi-icon.png" width="128" height="128" alt="Alpi app icon">
+  <img src="assets/alpi-hero.png" width="260" alt="Alpi – a little turquoise bean character with a white face mask and a leaf sprout, waving">
 </p>
 
 <h1 align="center">Alpi</h1>
@@ -19,13 +19,22 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/alpi-family-en-dark.png">
+  <img src="assets/alpi-family-en.png" alt="Alpi waving, holding a screenshot, cheering and napping">
+</picture>
+
 Alpi floats on your desktop (or lives in the menu bar). Every screenshot lands in Alpi's
 **Orbit** as a card you can drag anywhere, edit, pin or turn into text. Drop files on Alpi
 to convert them.
 
 - **Capture** – area, window, full screen, **scrolling capture**, text from an area, self-timer
-- **Record** – screen video (MP4/GIF) with clicks, microphone, system audio and a camera bubble
-- **Edit** – arrows, text, highlights, counters, **redaction** (auto-detects e-mails, IBANs, faces …), beautiful frames
+- **Record** – screen video (MP4/GIF) with clicks, pressed keys, microphone, system audio and a camera bubble
+- **Edit** – arrows, text, highlights, counters, **redaction** (auto-detects e-mails, IBANs, faces …), beautiful frames and **device frames** (laptop, browser, phone, tablet or your own)
+- **Search** – find any screenshot by the text in it, plus images and documents in Downloads (⌃⌥E)
+- **Step guides** – click through a workflow and get a numbered guide as PDF, Markdown or HTML (⌃⌥G)
+- **Translate** – replace the text in a screenshot with a translation (macOS 15+)
+- **Share small** – AirDrop, Mail, Messages or copy at a size that fits – or drag images onto the menu bar icon to shrink them
 - **Smart** – text recognition, QR codes, dates → calendar, tables → Excel, colour picker, clipboard history
 - **Convert** – images, PDFs, Office documents, video → GIF … by drag & drop
 - **Ask Alpi** – type what you want (“PDF from the selected images, then park them”); with Apple Intelligence on macOS 26/27, Alpi can also describe and name screenshots
@@ -41,7 +50,8 @@ to convert them.
 2. Start Alpi. It's signed and notarized by Apple, so it opens normally.
 3. On the first screenshot macOS asks for **Screen & System Audio Recording** – allow it and restart Alpi once.
 
-Optional permissions, only when you use the feature: Accessibility (auto-scroll, paste from the clipboard history),
+Optional permissions, only when you use the feature: Accessibility (auto-scroll, paste from the clipboard history,
+keys in recordings, step guides),
 Camera and Microphone (recordings), Automation (Office conversion, Finder selection).
 
 **Requirements:** macOS 14 Sonoma or later. Apple Intelligence features need macOS 26 or later on Apple silicon
@@ -84,7 +94,8 @@ Made by **turQis Labs**, Berlin.
 ## Deutsch
 
 **Alpi** ist ein kleiner schwebender Begleiter für den Mac: Screenshots (auch scrollend), Bildschirmvideos,
-Editor mit Schwärzen, Texterkennung, QR-Codes, Zwischenablage-Verlauf, Umwandeln per Drag & Drop und
+Editor mit Schwärzen und Geräterahmen, Suche im Bildtext (auch in Downloads), Schritt-Anleitungen,
+Übersetzen im Bild, Texterkennung, QR-Codes, Zwischenablage-Verlauf, Umwandeln per Drag & Drop und
 „Frag Alpi“ mit Apple Intelligence. Die App spricht Deutsch und Englisch.
 
 **Öffentliche Beta – kostenlos, solange sie Beta ist.**

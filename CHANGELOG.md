@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.9 Beta – new look, search, step guides
+
+- New Alpi: a turquoise bean with a face mask, leaf sprout and little arms that wave, cheer, hold your shot and rest; new app icon (the classic round Alpi is still in Settings › Alpi's Personality › Look)
+- Search (⌃⌥E): find screenshots by their text, plus images and documents in Downloads and folders you add; optional Spotlight results; index stays on your Mac
+- Step guide (⌃⌥G): every click becomes a cropped, numbered screenshot; reorder, redact and export as PDF, Markdown or HTML
+- Translate text in images (macOS 15 or later), right in the image
+- Recordings can show pressed shortcuts and highlight the pointer
+- Share small: AirDrop, Mail, Messages or copy at a chosen size; ⌘⇧C copies a small version in the editor
+- Device frames: laptop, browser, Android phone (round or square), tablet or your own frame PNG
+- Alpi reacts: sprout flashes on a new screenshot, glows red while recording, reading glasses during text recognition
+- Let Alpi sleep for 1 hour, 3 hours or until tomorrow morning (no suggestions, tap to wake)
+- Drag images onto the menu bar icon to get smaller copies without metadata
+- New menu bar icon; editor crosshair no longer stays over buttons; roomier Share Small window
+- First version you can get with *Update Now* (from 0.8.2)
+
 ## 0.8.2 Beta – faster screenshots, one-click updates
 
 - Screenshots trigger right away (screen capture is prepared in advance, all displays are captured at once)
